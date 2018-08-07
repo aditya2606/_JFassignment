@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#test push code
+#Test code for webhook
 try:
    import requests
 except ImportError:
